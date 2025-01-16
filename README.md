@@ -6,7 +6,6 @@
 <body>
   <h1>Sérgio Netto Andrade</h1>
   <p>54 anos, casado</p>
-  <p>(31) 98394-0886</p>
   <p>sergionettoandrade@gmail.com</p>
   <h2>Objetivos</h2>
    <p>Programação/Análise<!DOCTYPE de sistemas</p>
